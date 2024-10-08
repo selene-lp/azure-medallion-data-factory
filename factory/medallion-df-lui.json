@@ -1,0 +1,9 @@
+{
+	"name": "medallion-df-lui",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8b1921e-868e-43eb-ae97-1e28457d87c4",
+		"tenantId": "581d035d-da70-43dc-9385-358f8c3b7792"
+	}
+}
