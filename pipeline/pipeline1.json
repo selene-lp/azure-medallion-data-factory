@@ -105,7 +105,7 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"FolderName": {
-											"value": "@formatDateTime(utcNow(), 'yyyy-MM-dd')",
+											"value": "@formatDateTime(utcNow(), 'yyyy_MM_dd')",
 											"type": "Expression"
 										},
 										"FileName": {
@@ -147,7 +147,7 @@
 										"type": "Expression"
 									},
 									"FileName": {
-										"value": "@formatDateTime(utcNow(), 'yyyy-MM-dd')",
+										"value": "@formatDateTime(utcNow(), 'yyyy_MM_dd')",
 										"type": "Expression"
 									}
 								}
